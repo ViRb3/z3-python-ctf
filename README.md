@@ -10,3 +10,4 @@ Solving various CTF challenges using Z3 in Python.
 - ### [Lock code](lock-code)
 - ### [pwnEd 2020 - Custom Crypto](https://github.com/ViRb3/pwnEd-ctf/blob/master/customcrypto)
 - ### [pwnEd 2020 - MathGenMe](https://github.com/ViRb3/pwnEd-ctf/blob/master/mathgenme)
+- ### [pwnEd 2021 - server](server)
