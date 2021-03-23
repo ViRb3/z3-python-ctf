@@ -16,3 +16,5 @@ You can download the binary [here](sonda)
 ## Additional examples
 - ### [pwnEd CTF 2020](https://github.com/ViRb3/pwnEd-ctf)
 - ### [Lock code](lock-code)
+- ### [Z3 Basics](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
+- ### [Z3 Advanced](https://ericpony.github.io/z3py-tutorial/advanced-examples.htm)
