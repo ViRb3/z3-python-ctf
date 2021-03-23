@@ -18,7 +18,8 @@ You can download the binary [here](sonda)
 
 ## Additional examples
 
-- ### [pwnEd CTF 2020](https://github.com/ViRb3/pwnEd-ctf)
-- ### [Lock code](lock-code)
 - ### [Z3 Basics](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 - ### [Z3 Advanced](https://ericpony.github.io/z3py-tutorial/advanced-examples.htm)
+- ### [Lock code](lock-code)
+- ### [pwnEd 2020 - Custom Crypto](https://github.com/ViRb3/pwnEd-ctf/blob/master/customcrypto)
+- ### [pwnEd 2020 - MathGenMe](https://github.com/ViRb3/pwnEd-ctf/blob/master/mathgenme)
