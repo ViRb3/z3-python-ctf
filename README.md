@@ -15,3 +15,4 @@ Solving various CTF challenges using Z3 in Python.
 - ### [Custom Crypto](https://github.com/ViRb3/pwnEd-ctf/blob/master/customcrypto)
 - ### [MathGenMe](https://github.com/ViRb3/pwnEd-ctf/blob/master/mathgenme)
 - ### [server](server)
+- ### [sweet](sweet)
